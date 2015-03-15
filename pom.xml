@@ -76,6 +76,7 @@
                     <artifactId>commons-logging</artifactId>
                 </exclusion>
             </exclusions>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
