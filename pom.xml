@@ -5,7 +5,7 @@
     <groupId>net.smartcosmos</groupId>
     <artifactId>aws-ses-email-service</artifactId>
     <packaging>jar</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
 
     <name>AWS SES Email Services</name>
     <description>AWS SES Email Service Plugin</description>
