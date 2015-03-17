@@ -6,7 +6,7 @@
     <groupId>net.smartcosmos</groupId>
     <artifactId>aws-ses-email-service</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>AWS SES Email Services</name>
     <description>AWS SES Email Service Plugin</description>
@@ -49,7 +49,7 @@
         <url>https://github.com/SMARTRACTECHNOLOGY/smartcosmos-service-aws-email</url>
         <connection>scm:git:git://github.com/SMARTRACTECHNOLOGY/smartcosmos-service-aws-email.git</connection>
         <developerConnection>scm:git:git@github.com:SMARTRACTECHNOLOGY/smartcosmos-service-aws-email.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>aws-ses-email-service-1.0</tag>
     </scm>
 
     <distributionManagement>
