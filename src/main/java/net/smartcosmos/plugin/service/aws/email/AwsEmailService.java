@@ -28,7 +28,6 @@ import com.amazonaws.services.simpleemail.model.Content;
 import com.amazonaws.services.simpleemail.model.Destination;
 import com.amazonaws.services.simpleemail.model.Message;
 import com.amazonaws.services.simpleemail.model.SendEmailRequest;
-import net.smartcosmos.platform.api.ICosmosContext;
 import net.smartcosmos.platform.api.service.IEmailService;
 import net.smartcosmos.platform.base.AbstractAwsService;
 import org.slf4j.Logger;
@@ -37,8 +36,8 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AwsEmailService extends AbstractAwsService<ICosmosContext, AWSCredentials>
-        implements IEmailService<ICosmosContext>
+public class AwsEmailService extends AbstractAwsService<AWSCredentials>
+        implements IEmailService
 {
     private static final Logger LOG = LoggerFactory.getLogger(AwsEmailService.class);
 
