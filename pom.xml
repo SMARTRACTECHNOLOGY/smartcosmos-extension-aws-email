@@ -9,7 +9,7 @@
         <relativePath />
     </parent>
     <artifactId>smartcosmos-extension-aws-email</artifactId>
-    <version>2.0.2-SNAPSHOT</version>
+    <version>2.0.2-development-SNAPSHOT</version>
 
     <name>SMART COSMOS AWS SES Email Service Extension</name>
     <description>An Email Service Extension for SMART COSMOS</description>
