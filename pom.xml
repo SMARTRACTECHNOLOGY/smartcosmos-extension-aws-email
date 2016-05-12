@@ -6,7 +6,7 @@
         <groupId>net.smartcosmos.extension</groupId>
         <artifactId>smartcosmos-extension-starter</artifactId>
         <version>2.14.0</version>
-        <relativePath />
+        <relativePath></relativePath>
     </parent>
     <artifactId>smartcosmos-extension-aws-email</artifactId>
     <version>2.0.3-development-SNAPSHOT</version>
